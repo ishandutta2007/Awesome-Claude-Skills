@@ -16,11 +16,22 @@ A collection of reusable skill prompts for Claude, designed to produce consisten
 | [code-review](./skills/code-review/) | Structured code review with severity levels | PR reviews, code audits |
 | [refactoring](./skills/refactoring/) | Safe, incremental code transformation | Legacy code modernization |
 | [debugging](./skills/debugging/) | Systematic bug investigation | Troubleshooting issues |
-| [architecture-design](./skills/architecture-design/) | Design docs and ADRs | Planning new features |
+| [architecture-design](./skills/architecture-design/) | Deepening modules and reducing friction | Improving system-wide structure |
 | [testing](./skills/testing/) | Test strategy and implementation | Adding coverage |
 | [documentation](./skills/documentation/) | Technical writing | READMEs, API docs |
 | [api-design](./skills/api-design/) | REST/GraphQL API design | Building endpoints |
 | [onboarding](./skills/onboarding/) | Context gathering for new codebases | Joining projects |
+| [tdd](./skills/tdd/) | Red-green-refactor loop | Test-first development |
+| [prototype](./skills/prototype/) | Rapid throwaway prototypes | Validating designs |
+| [zoom-out](./skills/zoom-out/) | High-level system mapping | Understanding big picture |
+| [to-prd](./skills/to-prd/) | Conversation to PRD synthesis | Formalizing requirements |
+| [diagnose](./skills/diagnose/) | Systematic bug diagnosis | Hard bugs, performance |
+| [triage](./skills/triage/) | Issue workflow management | GitHub/GitLab triage |
+| [caveman](./skills/caveman/) | Ultra-compressed communication | Saving tokens, speed |
+| [grill-me](./skills/grill-me/) | Relentless design interview | Stress-testing plans |
+| [grill-with-docs](./skills/grill-with-docs/) | Plan vs domain/docs alignment | Terminological precision |
+| [to-issues](./skills/to-issues/) | Vertical slicing into tickets | Task breakdown |
+| [write-a-skill](./skills/write-a-skill/) | Creating new agent skills | Extending capabilities |
 
 ## Creating a New Skill
 
