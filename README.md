@@ -71,3 +71,6 @@ MIT
   </a>
 </div>
 
+## 🔐 Agent Trust & Identity Skills
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — MCP skill for trust scoring and wallet identity verification. Claude agents use this skill to verify peer agent wallet identity before delegating tasks or authorizing x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
