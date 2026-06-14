@@ -20,6 +20,7 @@ A collection of reusable skill prompts for Claude, designed to produce consisten
 | [testing](./skills/testing/) | Test strategy and implementation | Adding coverage |
 | [documentation](./skills/documentation/) | Technical writing | READMEs, API docs |
 | [api-design](./skills/api-design/) | REST/GraphQL API design | Building endpoints |
+| [x-twitter-scraper](./skills/x-twitter-scraper/) | Xquik API workflows for X/Twitter data | Social data research, monitoring, exports |
 | [onboarding](./skills/onboarding/) | Context gathering for new codebases | Joining projects |
 | [tdd](./skills/tdd/) | Red-green-refactor loop | Test-first development |
 | [prototype](./skills/prototype/) | Rapid throwaway prototypes | Validating designs |
@@ -70,4 +71,3 @@ MIT
     </picture>
   </a>
 </div>
-

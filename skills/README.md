@@ -14,6 +14,7 @@ Each skill is organized into its own directory:
 | Category | Skills |
 |----------|--------|
 | **Engineering** | [api-design](./api-design/), [architecture-design](./architecture-design/), [code-review](./code-review/), [debugging](./debugging/), [diagnose](./diagnose/), [onboarding](./onboarding/), [prototype](./prototype/), [refactoring](./refactoring/), [tdd](./tdd/), [testing](./testing/), [to-issues](./to-issues/), [to-prd](./to-prd/), [zoom-out](./zoom-out/) |
+| **Data & Research** | [x-twitter-scraper](./x-twitter-scraper/) |
 | **Productivity** | [caveman](./caveman/), [grill-me](./grill-me/), [write-a-skill](./write-a-skill/), [grill-with-docs](./grill-with-docs/), [triage](./triage/) |
 
 ## How to Use
