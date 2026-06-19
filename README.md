@@ -32,6 +32,7 @@ A collection of reusable skill prompts for Claude, designed to produce consisten
 | [grill-me](./skills/grill-me/) | Relentless design interview | Stress-testing plans |
 | [grill-with-docs](./skills/grill-with-docs/) | Plan vs domain/docs alignment | Terminological precision |
 | [to-issues](./skills/to-issues/) | Vertical slicing into tickets | Task breakdown |
+| [notfair](https://github.com/nowork-studio/NotFair) | Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | Marketing audits, keyword research, paid-ads optimization |
 | [write-a-skill](./skills/write-a-skill/) | Creating new agent skills | Extending capabilities |
 
 ## Creating a New Skill
