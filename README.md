@@ -17,6 +17,7 @@ A collection of reusable skill prompts for Claude, designed to produce consisten
 | [refactoring](./skills/refactoring/) | Safe, incremental code transformation | Legacy code modernization |
 | [debugging](./skills/debugging/) | Systematic bug investigation | Troubleshooting issues |
 | [architecture-design](./skills/architecture-design/) | Deepening modules and reducing friction | Improving system-wide structure |
+| [ax-extract-workflow](./skills/ax-extract-workflow/) | Reconstructs shipped-work evidence trails with ax | Retrospectives, repeatable workflows |
 | [testing](./skills/testing/) | Test strategy and implementation | Adding coverage |
 | [documentation](./skills/documentation/) | Technical writing | READMEs, API docs |
 | [api-design](./skills/api-design/) | REST/GraphQL API design | Building endpoints |
