@@ -47,6 +47,11 @@
 | [to-issues](./skills/to-issues/) | Vertical slicing into tickets | Task breakdown |
 | [notfair](https://github.com/nowork-studio/NotFair) | Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | Marketing audits, keyword research, paid-ads optimization |
 | [write-a-skill](./skills/write-a-skill/) | Creating new agent skills | Extending capabilities |
+| [code-generation](./skills/code-generation/) | Rapid boilerplate and algorithm generation | Prototyping, starting new projects |
+| [prompt-engineering](./skills/prompt-engineering/) | Self-improving prompts and meta-prompting | Complex reasoning tasks |
+| [security-audit](./skills/security-audit/) | Vulnerability scanning and threat modeling | Securing applications |
+| [performance-optimization](./skills/performance-optimization/) | Identify and fix bottlenecks | Scaling applications, refactoring |
+| [code-explanation](./skills/code-explanation/) | Explain complex codebases simply | Onboarding, documentation |
 
 ## 💡 Creating a New Skill
 
