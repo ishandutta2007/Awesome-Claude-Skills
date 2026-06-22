@@ -1,15 +1,27 @@
-# Awesome-Claude-Skills
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Claude Skills Banner" />
 
-A collection of reusable skill prompts for Claude, designed to produce consistent, high-quality outputs for common development tasks.
+  # ✨ Awesome Claude Skills ✨
+  
+  <p align="center">
+    <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Claude-Skills/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Claude-Skills.svg?style=flat-square" alt="Stars" /></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Claude-Skills/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Claude-Skills.svg?style=flat-square" alt="Forks" /></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Claude-Skills/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Claude-Skills.svg?style=flat-square" alt="Issues" /></a>
+    <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  </p>
+  
+  **A comprehensive, SEO-friendly collection of reusable skill prompts for Anthropic's Claude AI. Designed to produce consistent, high-quality code and text outputs for common software development tasks, prompt engineering, and AI workflows.**
+</div>
 
-## Usage
+## 🚀 Usage Guide
 
 1. Browse the `/skills` directory
 2. Copy the `skill.md` from the relevant skill
 3. Paste it into your Claude conversation (or use as a system prompt)
 4. Provide your specific context/code after the skill prompt
 
-## Skills
+## 🛠️ Available Claude Skills
 
 | Skill | Description | Best For |
 |-------|-------------|----------|
@@ -36,13 +48,13 @@ A collection of reusable skill prompts for Claude, designed to produce consisten
 | [notfair](https://github.com/nowork-studio/NotFair) | Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | Marketing audits, keyword research, paid-ads optimization |
 | [write-a-skill](./skills/write-a-skill/) | Creating new agent skills | Extending capabilities |
 
-## Creating a New Skill
+## 💡 Creating a New Skill
 
 1. Copy `/skills/_template/` to `/skills/your-skill-name/`
 2. Fill in the README.md and skill.md
 3. Follow the [contribution guidelines](#contributing)
 
-## Philosophy
+## 🧠 Core Philosophy
 
 Each skill should be:
 - **Atomic**: Does one thing well
@@ -50,14 +62,14 @@ Each skill should be:
 - **Observable**: Produces structured, parseable output
 - **Safe**: Includes guardrails and constraints
 
-## Contributing
+## 🤝 Contributing
 
 1. Use the template in `/skills/_template/`
 2. Include before/after examples
 3. Test with at least 3 different codebases
 4. Submit a PR with a clear description
 
-## License
+## 📄 License
 
 MIT
 
