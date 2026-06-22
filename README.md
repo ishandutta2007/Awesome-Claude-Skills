@@ -52,6 +52,14 @@
 | [security-audit](./skills/security-audit/) | Vulnerability scanning and threat modeling | Securing applications |
 | [performance-optimization](./skills/performance-optimization/) | Identify and fix bottlenecks | Scaling applications, refactoring |
 | [code-explanation](./skills/code-explanation/) | Explain complex codebases simply | Onboarding, documentation |
+| [database-design](./skills/database-design/) | Schema design and optimization | Data modeling, SQL tuning |
+| [ux-ui-review](./skills/ux-ui-review/) | Heuristic evaluation of user interfaces | Frontend development, Design feedback |
+| [i18n-l10n](./skills/i18n-l10n/) | Internationalization and localization strategies | Globalizing applications |
+| [accessibility-audit](./skills/accessibility-audit/) | WCAG compliance checking and fixes | Web accessibility, A11y |
+| [devops-pipeline](./skills/devops-pipeline/) | CI/CD pipeline generation and review | GitHub Actions, Infrastructure as Code |
+| [regex-wizard](./skills/regex-wizard/) | Building and explaining complex regular expressions | Data validation, parsing |
+| [data-science-eda](./skills/data-science-eda/) | Exploratory data analysis scripts and strategies | Jupyter notebooks, Pandas |
+| [code-migration](./skills/code-migration/) | Migrating code between frameworks or languages | Tech stack modernization |
 
 ## 💡 Creating a New Skill
 
