@@ -60,6 +60,14 @@
 | [regex-wizard](./skills/regex-wizard/) | Building and explaining complex regular expressions | Data validation, parsing |
 | [data-science-eda](./skills/data-science-eda/) | Exploratory data analysis scripts and strategies | Jupyter notebooks, Pandas |
 | [code-migration](./skills/code-migration/) | Migrating code between frameworks or languages | Tech stack modernization |
+| [seo-optimization](./skills/seo-optimization/) | Technical SEO audits and metadata structuring | Web development, Content sites |
+| [web-scraping](./skills/web-scraping/) | Building resilient scrapers and data extractors | Data mining, OSINT |
+| [game-mechanics](./skills/game-mechanics/) | Designing algorithms and state machines for games | Game development |
+| [cloud-architecture](./skills/cloud-architecture/) | Designing AWS/GCP/Azure infrastructure | Cloud engineering, Serverless |
+| [linux-sysadmin](./skills/linux-sysadmin/) | Shell scripting and server management | System administration |
+| [blockchain-smart-contracts](./skills/blockchain-smart-contracts/) | Writing and auditing Solidity/Rust contracts | Web3, DeFi |
+| [graphql-schema](./skills/graphql-schema/) | Designing efficient and scalable GraphQL schemas | API development |
+| [css-animations](./skills/css-animations/) | Creating complex and performant CSS/JS animations | Frontend, UI/UX |
 
 ## 💡 Creating a New Skill
 
