@@ -35,6 +35,7 @@
 | [api-design](./skills/api-design/) | REST/GraphQL API design | Building endpoints |
 | [x-twitter-scraper](./skills/x-twitter-scraper/) | Xquik API workflows for X/Twitter data | Social data research, monitoring, exports |
 | [onboarding](./skills/onboarding/) | Context gathering for new codebases | Joining projects |
+| [runapi-cli](https://github.com/runapi-ai/cli-skill) | Run AI image, video, music/audio, speech, and LLM model API jobs through the RunAPI CLI | Model API workflows, media generation |
 | [tdd](./skills/tdd/) | Red-green-refactor loop | Test-first development |
 | [prototype](./skills/prototype/) | Rapid throwaway prototypes | Validating designs |
 | [zoom-out](./skills/zoom-out/) | High-level system mapping | Understanding big picture |
