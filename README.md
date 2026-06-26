@@ -46,6 +46,7 @@
 | [grill-with-docs](./skills/grill-with-docs/) | Plan vs domain/docs alignment | Terminological precision |
 | [to-issues](./skills/to-issues/) | Vertical slicing into tickets | Task breakdown |
 | [notfair](https://github.com/nowork-studio/NotFair) | Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | Marketing audits, keyword research, paid-ads optimization |
+| [linkedin-skills](https://github.com/Linked-API/linkedin-skills) | LinkedIn automation skills for profile/company research, messaging, engagement, and managed network growth workflows | LinkedIn research, outreach, growth |
 | [write-a-skill](./skills/write-a-skill/) | Creating new agent skills | Extending capabilities |
 | [code-generation](./skills/code-generation/) | Rapid boilerplate and algorithm generation | Prototyping, starting new projects |
 | [prompt-engineering](./skills/prompt-engineering/) | Self-improving prompts and meta-prompting | Complex reasoning tasks |
