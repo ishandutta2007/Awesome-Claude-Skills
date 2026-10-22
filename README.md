@@ -48,6 +48,7 @@
 | [to-issues](./skills/to-issues/) | Vertical slicing into tickets | Task breakdown |
 | [notfair](https://github.com/nowork-studio/NotFair) | Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | Marketing audits, keyword research, paid-ads optimization |
 | [linkedin-skills](https://github.com/Linked-API/linkedin-skills) | LinkedIn automation skills for profile/company research, messaging, engagement, and managed network growth workflows | LinkedIn research, outreach, growth |
+| [deed-page](https://github.com/f-o-x11/deed-page-skill) | Publishes an HTML file or a static folder to a permanent `https://{slug}.deed.page/` URL with one HTTP request or the deed.page MCP server, no account needed | Sharing generated pages, reports and demos as live links |
 | [tree-ring-memory](./skills/tree-ring-memory/) | Lifecycle-aware memory capture, recall, evidence, and forgetting for AI-agent projects | Durable project memory, privacy-safe recall |
 | [write-a-skill](./skills/write-a-skill/) | Creating new agent skills | Extending capabilities |
 | [code-generation](./skills/code-generation/) | Rapid boilerplate and algorithm generation | Prototyping, starting new projects |
