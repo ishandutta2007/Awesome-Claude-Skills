@@ -17,6 +17,7 @@
 ## 🚀 Usage Guide
 
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills`
+- [alapha888/agent-skills-en](https://github.com/alapha888/agent-skills-en) - Five MIT-licensed English productivity skills for AI agents: tech-writing proofreading, conventional commit messages, meeting notes to structured minutes, a five-axis code-review checklist, and a deep-research framework. `npx skills add alapha888/agent-skills-en`
 1. Browse the `/skills` directory
 2. Copy the `skill.md` from the relevant skill
 3. Paste it into your Claude conversation (or use as a system prompt)
