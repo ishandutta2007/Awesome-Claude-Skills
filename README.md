@@ -52,6 +52,7 @@
 | [linkedin-skills](https://github.com/Linked-API/linkedin-skills) | LinkedIn automation skills for profile/company research, messaging, engagement, and managed network growth workflows | LinkedIn research, outreach, growth |
 | [tree-ring-memory](./skills/tree-ring-memory/) | Lifecycle-aware memory capture, recall, evidence, and forgetting for AI-agent projects | Durable project memory, privacy-safe recall |
 | [curlshot](https://github.com/SergiuPogor/curlshot-mcp/tree/main/skills/curlshot) | Screenshot skill for the CurlShot API: capture any public URL (or your own HTML/Markdown) as PNG, JPEG, WebP, PDF or scrolling video, with full-page and device presets | Visual checks, docs screenshots, PDF exports |
+| [ironheights](https://github.com/Frank-Masciopinto/ironheights/tree/main/skills/ironheights) | Pre-install security check for agent skills: runs the open-source Ironheights CLI locally to flag pipe-to-shell installs, encoded payloads, credential reads and prompt-injection text in a skill before you trust it (Apache-2.0, no telemetry) | Vetting a third-party skill before installing it |
 | [write-a-skill](./skills/write-a-skill/) | Creating new agent skills | Extending capabilities |
 | [code-generation](./skills/code-generation/) | Rapid boilerplate and algorithm generation | Prototyping, starting new projects |
 | [prompt-engineering](./skills/prompt-engineering/) | Self-improving prompts and meta-prompting | Complex reasoning tasks |
