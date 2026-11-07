@@ -52,6 +52,7 @@
 | [linkedin-skills](https://github.com/Linked-API/linkedin-skills) | LinkedIn automation skills for profile/company research, messaging, engagement, and managed network growth workflows | LinkedIn research, outreach, growth |
 | [tree-ring-memory](./skills/tree-ring-memory/) | Lifecycle-aware memory capture, recall, evidence, and forgetting for AI-agent projects | Durable project memory, privacy-safe recall |
 | [curlshot](https://github.com/SergiuPogor/curlshot-mcp/tree/main/skills/curlshot) | Screenshot skill for the CurlShot API: capture any public URL (or your own HTML/Markdown) as PNG, JPEG, WebP, PDF or scrolling video, with full-page and device presets | Visual checks, docs screenshots, PDF exports |
+| [looot-skills](https://github.com/loootai/looot-skills) | Skills for the looot data API: work email and phone lookup, email verification, company enrichment, SERP and web pages as markdown, with the price shown before each run | Lead research, enrichment, SERP and web data for agents |
 | [write-a-skill](./skills/write-a-skill/) | Creating new agent skills | Extending capabilities |
 | [code-generation](./skills/code-generation/) | Rapid boilerplate and algorithm generation | Prototyping, starting new projects |
 | [prompt-engineering](./skills/prompt-engineering/) | Self-improving prompts and meta-prompting | Complex reasoning tasks |
