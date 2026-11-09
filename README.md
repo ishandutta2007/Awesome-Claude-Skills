@@ -53,6 +53,7 @@
 | [tree-ring-memory](./skills/tree-ring-memory/) | Lifecycle-aware memory capture, recall, evidence, and forgetting for AI-agent projects | Durable project memory, privacy-safe recall |
 | [curlshot](https://github.com/SergiuPogor/curlshot-mcp/tree/main/skills/curlshot) | Screenshot skill for the CurlShot API: capture any public URL (or your own HTML/Markdown) as PNG, JPEG, WebP, PDF or scrolling video, with full-page and device presets | Visual checks, docs screenshots, PDF exports |
 | [looot-skills](https://github.com/loootai/looot-skills) | Skills for the looot data API: work email and phone lookup, email verification, company enrichment, SERP and web pages as markdown, with the price shown before each run | Lead research, enrichment, SERP and web data for agents |
+| [ironheights](https://github.com/Frank-Masciopinto/ironheights/tree/main/skills/ironheights) | Pre-install security check for agent skills: runs the open-source Ironheights CLI locally to flag pipe-to-shell installs, encoded payloads, credential reads and prompt-injection text in a skill before you trust it (Apache-2.0, no telemetry) | Vetting a third-party skill before installing it |
 | [write-a-skill](./skills/write-a-skill/) | Creating new agent skills | Extending capabilities |
 | [code-generation](./skills/code-generation/) | Rapid boilerplate and algorithm generation | Prototyping, starting new projects |
 | [prompt-engineering](./skills/prompt-engineering/) | Self-improving prompts and meta-prompting | Complex reasoning tasks |
