@@ -75,6 +75,7 @@
 | [blockchain-smart-contracts](./skills/blockchain-smart-contracts/) | Writing and auditing Solidity/Rust contracts | Web3, DeFi |
 | [graphql-schema](./skills/graphql-schema/) | Designing efficient and scalable GraphQL schemas | API development |
 | [css-animations](./skills/css-animations/) | Creating complex and performant CSS/JS animations | Frontend, UI/UX |
+| [publicrecords-skills](https://github.com/GeminiGeorge22/publicrecords-skills) | Agent Skills + MCP plugin (Claude Code, Codex, Copilot, Cursor, Gemini CLI, Kiro) for 18 public-data Apify Actors: SAM.gov, Grants.gov, USAspending, EU/UK tenders, council meetings, ATS jobs, company socials, Google Ads, Etsy, sports odds, Spotify |  |
 
 ## 💡 Creating a New Skill
 
